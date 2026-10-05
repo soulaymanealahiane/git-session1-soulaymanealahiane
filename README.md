@@ -18,7 +18,7 @@ A small starter website for practicing the Git and GitHub commands from Session 
 Open `index.html` in a browser. No installation is needed.
 
 ```javascript
-statusMessage.textContent = "Starter project is ready.";
+statusMessage.textContent = "Session 1 Git project is ready.";
 ```
 
 [Al Akhawayn University](https://www.aui.ma/)

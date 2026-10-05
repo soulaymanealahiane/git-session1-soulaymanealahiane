@@ -1,5 +1,5 @@
 const statusMessage = document.getElementById("status-message");
 
 if (statusMessage) {
-  statusMessage.textContent = "Starter project is ready.";
+  statusMessage.textContent = "Session 1 Git project is ready.";
 }
