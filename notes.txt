@@ -1,2 +1,3 @@
 Personal development notes.
 
+Use git status before staging and committing files.
