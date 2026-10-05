@@ -33,3 +33,7 @@ statusMessage.textContent = "Session 1 Git project is ready.";
 
 
 This sentence was added directly on GitHub to practice fetch and pull.
+
+## Report
+
+[Assignment 1 report](report.pdf)
