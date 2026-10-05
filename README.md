@@ -1,4 +1,4 @@
-# git-session1-soulaymanealahiane
+# GitLab-repo
 
 Name: Soulaymane Alahiane  
 GitHub username: soulaymanealahiane
