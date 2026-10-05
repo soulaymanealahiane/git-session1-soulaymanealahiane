@@ -24,3 +24,9 @@ statusMessage.textContent = "Starter project is ready.";
 [Al Akhawayn University](https://www.aui.ma/)
 
 ![Project banner](assets/project-banner.svg)
+
+## Learning Goals
+
+- Stage and commit changes in logical steps.
+- Create an About branch and merge it into main.
+- Push the project and synchronize changes with fetch and pull.
