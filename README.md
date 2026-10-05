@@ -30,3 +30,6 @@ statusMessage.textContent = "Starter project is ready.";
 - Stage and commit changes in logical steps.
 - Create an About branch and merge it into main.
 - Push the project and synchronize changes with fetch and pull.
+
+
+This sentence was added directly on GitHub to practice fetch and pull.
